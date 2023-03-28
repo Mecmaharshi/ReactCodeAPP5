@@ -16,7 +16,6 @@ function FormPage() {
     // alert(
     //   `Full Name: ${firstName} ${lastName}, noOfRooms: ${noOfRooms}, noOfPeople: ${noOfPeople}, phoneNumber: ${phoneNumber}, checkInDaate: ${checkInDate}, checkOutDate: ${checkOutDate}, modeOfPayment: ${modeOfPayment}, roomType: ${roomType}, email: ${email}`
     // );
-    document.getElementById()
     let data = {
       firstName: firstName,
       lastName: lastName,
